@@ -1,0 +1,3 @@
+C:\Users\Maciek\Downloads\inheritance-example-master (2)\inheritance-example-master\ChessInheritence\ChessInheritence\bin\Debug\ChessInheritence.exe.config
+C:\Users\Maciek\Downloads\inheritance-example-master (2)\ChessGame\ChessGame\ChessGame\bin\Debug\ChessInheritence.exe.config
+C:\Users\Maciek\Downloads\inheritance-example-master (2)\ChessGame\ChessGame\ChessGame\obj\Debug\ChessGame.csprojResolveAssemblyReference.cache
